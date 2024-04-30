@@ -2,12 +2,14 @@
   "homepage": "https://vinstonsalim.github.io/vinstonsalim",
   "name": "vinstonsalim",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base /",
+    "build": "tsc && vite build --base=./",
+    "predeploy": "npm run build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {

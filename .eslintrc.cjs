@@ -1,14 +1,16 @@
 module.exports = {
+  root: true,
   env: {
     browser: true,
-    es2021: true,
+    es2024: true,
     node: true,
   },
   extends: [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
+    'plugin:react/recommended',
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
-    "plugin:@typescript-eslint/strict",
+    'plugin:react/jsx-runtime',
     "prettier",
   ],
   overrides: [],
@@ -19,7 +21,7 @@ module.exports = {
     project: ["./tsconfig.json", "./vite.config.ts"],
     tsconfigRootDir: __dirname,
   },
-  plugins: ["@typescript-eslint", "prettier"],
+  plugins: ["@typescript-eslint", "react", "prettier"],
   ignorePatterns: [
     "node_modules",
     "dist",
@@ -28,7 +30,7 @@ module.exports = {
     "vite.config.ts",
   ],
   rules: {
-    quotes: ["error", "double"],
+    quotes: ["error", "single"],
     semi: ["error", "always"],
     "spaced-comment": [
       "error",
@@ -41,8 +43,10 @@ module.exports = {
       {
         ignorePattern: "pragma|ignored",
         ignoreInlineComments: true,
+        ignoreConsecutiveComments: true,
       },
     ],
     curly: ["error", "multi"],
+    'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
   },
 };

@@ -1,0 +1,6 @@
+- [ ] Add sidebar component
+- [ ] Add layout component
+- [ ] Add cv download
+- [ ] Add pdf preview for cv
+- [ ] Add design/css framework
+- [ ] Add translation for German and English language

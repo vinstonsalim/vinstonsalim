@@ -5,11 +5,7 @@
 
 - 📫 How to reach me **vinston.salim@outlook.com** or just click => <a href="mailto:vinston.salim@outlook.com?subject=Hi%20Vinston" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="vinstonsalim" width="30"/>
-</a> or <a href="https://linkedin.com/in/vinstonsalim" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="vinstonsalim" width="80"/>
 </a>
-
-- 📄 Interested about my experiences? [Check out my resume](https://drive.google.com/drive/folders/1HsvxIJDdvbQdSQBx5xY0rZ_yoHe_AQ8r?usp=sharing)
 
 - 🏗️ My projects? [Check this out](https://github.com/vinstonsalim/projects)
 

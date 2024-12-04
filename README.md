@@ -1,5 +1,5 @@
-<h1 align="center">Mahlzeit 👋, mein Name ist Vinston Salim 🇮🇩 </h1>
-<h3 align="center">CS-Student based in Darmstadt, Germany</h3>
+<h1 align="center">Servus 👋, mein Name ist Vinston Salim 🇮🇩 </h1>
+<h3 align="center">Software Engineer based in Darmstadt, Germany</h3>
 
 - 🌱 I’m currently learning **AWS and Cloud**
 
@@ -23,6 +23,9 @@
     <tr>
         <td><h3>Frontend</h3></td>
         <td>
+            <a href="https://angular.dev/" target="_blank" title="Angular" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="20"/>
+            </a> &nbsp;
             <a href="https://reactjs.org/" target="_blank" title="React" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="20"/>
             </a> &nbsp;
@@ -46,11 +49,14 @@
     <tr>
         <td><h3>Backend</h3></td>
         <td>
+            <a href="https://www.java.com/de/" target="_blank" title="TypeScript" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="20"/>
+            </a> &nbsp;
+            <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring / Spring Boot 3" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="20"/>
+            </a> &nbsp;
             <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="20"/>
-            </a> &nbsp;
-            <a href="https:firbase.google.com" target="_blank" title="Firebase" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="20"/>
             </a> &nbsp;
             <a href="https://nodejs.org" target="_blank" title="Node.js" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="20"/>
@@ -61,8 +67,8 @@
             <a href="https://www.php.net" target="_blank" title="PHP" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="20"/>
             </a> &nbsp;
-            <a href="https://www.java.com" target="_blank" title="Java" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="20"/>
+            <a href="https://symfony.com/" target="_blank" title="Symfony" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="php" height="20"/>
             </a> &nbsp;
             <a href="https://www.python.org" target="_blank" title="Python" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="20"/>
@@ -86,6 +92,9 @@
             </a> &nbsp;
             <a href="https://www.mariaDB.org/" target="_blank" title="MariaDB" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" alt="mariadb" height="20"/>
+            </a> &nbsp;
+            <a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Apache Cassandra" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="mariadb" height="20"/>
             </a> &nbsp;
         </td>
     </tr>
